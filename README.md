@@ -1,5 +1,9 @@
 <h1 align="center">❓How to open the website❓</h1>
 
+[CLICK ME!](https://joetilden.neocities.org/Skateboarding%20blog/MAIN)
+
+<br>OR<br>
+
 <ol>
   <li>Download the project and extract the files</li>
   <li>Navigate to MAIN.html and open it with your preferred browser</li>
