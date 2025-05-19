@@ -2,7 +2,7 @@
 
 [CLICK ME!](https://joetilden.neocities.org/Skateboarding%20blog/MAIN)
 
-<br>OR<br>
+<br>OR<br><br>
 
 <ol>
   <li>Download the project and extract the files</li>
