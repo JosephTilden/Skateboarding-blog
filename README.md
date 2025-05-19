@@ -1,6 +1,6 @@
 <h1 align="center">❓How to open the website❓</h1>
 
-<p style="text-align: center;">[CLICK ME!](https://joetilden.neocities.org/Skateboarding%20blog/MAIN)</p>
+[CLICK ME!](https://joetilden.neocities.org/Skateboarding%20blog/MAIN)
 
 <br>OR<br><br>
 
